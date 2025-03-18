@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#H#",
+    "EME",
+    "WWW"
+  ],
+  "key": {
+    "#": { "item": "minecraft:sugar" },
+    "H": { "item": "minecraft:honeycomb" },
+    "E": { "item": "minecraft:egg" },
+    "M": { "item": "minecraft:milk_bucket" },
+    "W": { "item": "minecraft:wheat" }
+  },
+  "result": {
+    "id": "my-first-mod:waffle",
+    "count": 6
+  }
+}
